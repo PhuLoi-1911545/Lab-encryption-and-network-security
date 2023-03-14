@@ -1,0 +1,4 @@
+﻿  des_algo.cpp
+D:\GitHub\Mat_ma_va_an_ninh_mang\Lab01\DES_algorithm\des_algo.cpp(156,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\GitHub\Mat_ma_va_an_ninh_mang\Lab01\DES_algorithm\des_algo.cpp(188,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  DES.vcxproj -> D:\GitHub\Mat_ma_va_an_ninh_mang\Lab01\DES_algorithm\x64\Debug\DES.exe
